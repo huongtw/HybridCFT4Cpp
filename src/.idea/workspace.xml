@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d9aefeae-ded0-4a35-9855-1b0be2009afa" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../TEST_REPORT.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TEST_REPORT.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../local/myConstraint.smt2" beforeDir="false" afterPath="$PROJECT_DIR$/../local/myConstraint.smt2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../local/setting.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../local/setting.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myConstraint.smt2" beforeDir="false" afterPath="$PROJECT_DIR$/../myConstraint.smt2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Bai10/HybridAutoTestGen/ProbTestPath.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Bai10/HybridAutoTestGen/ProbTestPath.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Bai10/testdatagen/se/solver/SmtLibGeneration.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Bai10/testdatagen/se/solver/SmtLibGeneration.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Bai10/utils/Utils.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Bai10/utils/Utils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Common/TestConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/Common/TestConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/compiler/Compiler.java" beforeDir="false" afterPath="$PROJECT_DIR$/compiler/Compiler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase_manager/TestCaseManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/testcase_manager/TestCaseManager.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2D96wBsbmIODEDWZZ5CjgNqV9zW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d9aefeae-ded0-4a35-9855-1b0be2009afa" name="Default Changelist" comment="" />
+      <created>1660099188545</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660099188545</updated>
+      <workItem from="1660099189974" duration="14000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1660099197691">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1660099197691" />
+  </component>
+</project>

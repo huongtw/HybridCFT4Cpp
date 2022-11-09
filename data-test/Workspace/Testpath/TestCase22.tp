@@ -1,0 +1,17 @@
+BEGIN OF TESTCASE22
+<<PRE-CALLING>> Test TestCase22
+Calling: D:\Tool_VNU\data-test\Sample_for_R1_2\test.cpp\grade(int)
+lis===44###sois===1011###eois===1046###lif===1###soif===35###eoif===70###ifc===true###function===D:\Tool_VNU\data-test\Sample_for_R1_2\test.cpp\grade(int)
+lis===44###sois===1011###eois===1026###lif===1###soif===35###eoif===50###isc===true###function===D:\Tool_VNU\data-test\Sample_for_R1_2\test.cpp\grade(int)
+lis===46###sois===1073###eois===1107###lif===3###soif===97###eoif===131###ifc===true###function===D:\Tool_VNU\data-test\Sample_for_R1_2\test.cpp\grade(int)
+lis===46###sois===1073###eois===1088###lif===3###soif===97###eoif===112###isc===true###function===D:\Tool_VNU\data-test\Sample_for_R1_2\test.cpp\grade(int)
+lis===48###sois===1134###eois===1168###lif===5###soif===158###eoif===192###ifc===true###function===D:\Tool_VNU\data-test\Sample_for_R1_2\test.cpp\grade(int)
+lis===48###sois===1134###eois===1149###lif===5###soif===158###eoif===173###isc===true###function===D:\Tool_VNU\data-test\Sample_for_R1_2\test.cpp\grade(int)
+lis===50###sois===1195###eois===1229###lif===7###soif===219###eoif===253###ifc===true###function===D:\Tool_VNU\data-test\Sample_for_R1_2\test.cpp\grade(int)
+lis===50###sois===1195###eois===1210###lif===7###soif===219###eoif===234###isc===true###function===D:\Tool_VNU\data-test\Sample_for_R1_2\test.cpp\grade(int)
+lis===52###sois===1256###eois===1290###lif===9###soif===280###eoif===314###ifc===true###function===D:\Tool_VNU\data-test\Sample_for_R1_2\test.cpp\grade(int)
+lis===52###sois===1256###eois===1270###lif===9###soif===280###eoif===294###isc===true###function===D:\Tool_VNU\data-test\Sample_for_R1_2\test.cpp\grade(int)
+lis===52###sois===1274###eois===1290###lif===9###soif===298###eoif===314###isc===true###function===D:\Tool_VNU\data-test\Sample_for_R1_2\test.cpp\grade(int)
+lis===54###sois===1309###eois===1320###lif===11###soif===333###eoif===344###ins===true###function===D:\Tool_VNU\data-test\Sample_for_R1_2\test.cpp\grade(int)
+Return from: D:\Tool_VNU\data-test\Sample_for_R1_2\test.cpp\grade(int)
+END OF TESTCASE22

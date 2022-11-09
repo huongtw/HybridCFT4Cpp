@@ -1,0 +1,9 @@
+BEGIN OF TESTCASE31
+<<PRE-CALLING>> Test TestCase31
+Calling: D:\Tool_VNU\data-test\Sample_for_R1_2\test.cpp\grade(int)
+lis===44###sois===1011###eois===1046###lif===1###soif===35###eoif===70###ifc===true###function===D:\Tool_VNU\data-test\Sample_for_R1_2\test.cpp\grade(int)
+lis===44###sois===1011###eois===1026###lif===1###soif===35###eoif===50###isc===true###function===D:\Tool_VNU\data-test\Sample_for_R1_2\test.cpp\grade(int)
+lis===44###sois===1030###eois===1046###lif===1###soif===54###eoif===70###isc===true###function===D:\Tool_VNU\data-test\Sample_for_R1_2\test.cpp\grade(int)
+lis===45###sois===1051###eois===1062###lif===2###soif===75###eoif===86###ins===true###function===D:\Tool_VNU\data-test\Sample_for_R1_2\test.cpp\grade(int)
+Return from: D:\Tool_VNU\data-test\Sample_for_R1_2\test.cpp\grade(int)
+END OF TESTCASE31

@@ -1,0 +1,68 @@
+{
+  "envirUserCodeDirectory": "..\\aka-working-space\\HuongTest\\user_code\\environment",
+  "instrumentDirectory": "..\\aka-working-space\\HuongTest\\instruments",
+  "paramUserCodeDirectory": "..\\aka-working-space\\HuongTest\\user_code\\parameter",
+  "testCaseUserCodeDirectory": "..\\aka-working-space\\HuongTest\\user_code\\testcase",
+  "nStatementPath": "..\\aka-working-space\\HuongTest\\nStatements.json",
+  "nBranchPath": "..\\aka-working-space\\HuongTest\\nBranches.json",
+  "nMcdcPath": "..\\aka-working-space\\HuongTest\\nMcdcs.json",
+  "nBasicPath": "..\\aka-working-space\\HuongTest\\nBasicPaths.json",
+  "testDriverDirectory": "..\\aka-working-space\\HuongTest\\test-drivers",
+  "headerPreprocessorDirectory": "..\\aka-working-space\\HuongTest\\header-preprocessor",
+  "stubCodeDirectory": "..\\aka-working-space\\HuongTest\\stubs",
+  "fullReportDirectory": "..\\aka-working-space\\HuongTest\\reports\\full",
+  "executionReportDirectory": "..\\aka-working-space\\HuongTest\\reports\\execution",
+  "testDataReportDirectory": "..\\aka-working-space\\HuongTest\\reports\\test-data",
+  "reportDirectory": "..\\aka-working-space\\HuongTest\\reports",
+  "functionConfigDirectory": "..\\aka-working-space\\HuongTest\\function-configs",
+  "executableFolderDirectory": "..\\aka-working-space\\HuongTest\\exe",
+  "commandFile": "..\\aka-working-space\\HuongTest\\compilation.aka",
+  "testingProject": "../../Sample_for_R1_2",
+  "currentEnvironmentName": "HuongTest",
+  "environmentFile": ".\\aka-working-space\\HuongTest.env",
+  "testscriptFile": ".\\aka-working-space\\HuongTest.tst",
+  "testcaseDirectory": "..\\aka-working-space\\HuongTest\\test-cases",
+  "dependencyDirectory": "..\\aka-working-space\\HuongTest\\dependencies",
+  "physicalJsonFile": "..\\aka-working-space\\HuongTest\\physical_tree.json",
+  "probePointDirectory": "..\\aka-working-space\\HuongTest\\probepoints",
+  "regressionScriptDirectory": "..\\aka-working-space\\HuongTest\\regression-scripts",
+  "compoundTestcaseDirectory": "..\\aka-working-space\\HuongTest\\test-cases\\compounds",
+  "testcaseCommandsDirectory": "..\\aka-working-space\\HuongTest\\test-case-commands",
+  "testpathDirectory": "..\\aka-working-space\\HuongTest\\test-paths",
+  "coverageDirectory": "..\\aka-working-space\\HuongTest\\coverages",
+  "debugDirectory": "..\\aka-working-space\\HuongTest\\debugger",
+  "breakpointDirectory": "..\\aka-working-space\\HuongTest\\debugger\\breakpoints",
+  "debugLogDirectory": "..\\aka-working-space\\HuongTest\\debugger\\log",
+  "debugCommandsDirectory": "..\\aka-working-space\\HuongTest\\debugger\\commands",
+  "executionResultDirectory": "..\\aka-working-space\\HuongTest\\execution-results",
+  "elementDirectory": "..\\aka-working-space\\HuongTest\\element",
+  "versionComparisonDirectory": "..\\aka-working-space\\HuongTest\\difference",
+  "defaultFunctionConfig": {
+    "theMaximumNumberOfIterations": 10,
+    "floatAndDoubleDelta": 0.1,
+    "solvingStrategy": "USER_BOUND_STRATEGY",
+    "boundOfPointer": {
+      "lower": "0",
+      "upper": "3"
+    },
+    "boundOfArray": {
+      "lower": "1",
+      "upper": "3"
+    },
+    "boundOfOtherCharacterVars": {
+      "lower": "MIN",
+      "upper": "MAX"
+    },
+    "boundOfOtherNumberVars": {
+      "lower": "MIN",
+      "upper": "MAX"
+    },
+    "testdataGenStrategy": "BEST TIME",
+    "testdataExecStrategy": "MULTIPLE_COMPILATION"
+  },
+  "templateFunctionDirectory": "..\\aka-working-space\\HuongTest\\template_functions",
+  "boundOfDataTypeDirectory": "..\\aka-working-space\\HuongTest\\datatypebound",
+  "userCodeDirectory": "..\\aka-working-space\\HuongTest\\user_code",
+  "constraintFolder": "..\\aka-working-space\\HuongTest\\constraints",
+  "cteFolder": "..\\aka-working-space\\HuongTest\\cte"
+}

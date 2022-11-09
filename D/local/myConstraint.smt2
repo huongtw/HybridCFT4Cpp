@@ -1,0 +1,7 @@
+(set-option :timeout 5000)
+(declare-fun tvw_Math () Int)
+(declare-fun tvw_English () Int)
+(assert (>=  tvw_Math   50 ) )
+(assert (>=  tvw_English   60 ) )
+(assert (>=  tvw_Math   80 ) )
+(check-sat)(get-model)

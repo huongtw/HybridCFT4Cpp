@@ -1,0 +1,39 @@
+class FunctionNode
+
+[RealParentDependency]
+start: D:\OneDrive - Cao Dang Su Pham Trung Uong\NCS\Tool_VNU\data-test\Sample_for_R1_2\test17082021.cpp\MathAndEnglishGrade(int,int)
+end: D:\OneDrive - Cao Dang Su Pham Trung Uong\NCS\Tool_VNU\data-test\Sample_for_R1_2\test17082021.cpp
+
+
+
+----------------
+Dependency of arguments:
+
+
+----------------
+Source code:
+char  MathAndEnglishGrade (int Math, int English)
+{
+//Loi ta cac truong hop Math=50, math=80, English=60, English=90
+	//if(Math>=50 && English>=60)
+	if(Math>50 && English>60)
+   	{
+		//if(Math>=80 || English>=90)
+		if(Math>80 || English>90)
+		{
+			return 'B';
+		}
+		else
+		{
+			if (Math + English>=180)
+			{
+				return 'A';
+			}
+			else
+			{
+		   		return 'C';
+			}
+		}
+    }
+    return 'D';
+}

@@ -1,0 +1,25 @@
+{
+  "path": ".\\Sample_for_R1_2",
+  "type": "com.dse.parser.object.ProjectNode",
+  "children": [
+    {
+      "path": ".\\Sample_for_R1_2\\test.exe",
+      "type": "com.dse.parser.object.ExeNode"
+    },
+    {
+      "path": ".\\Sample_for_R1_2\\test17082021.cpp",
+      "type": "com.dse.parser.object.CppFileNode",
+      "last-modified": "03/02/2022 21:55:24",
+      "children": [
+        {
+          "path": ".\\Sample_for_R1_2\\test17082021.cpp\\",
+          "type": "com.dse.parser.object.UnspecifiedDeclaration"
+        }
+      ]
+    },
+    {
+      "path": ".\\Sample_for_R1_2\\test17082021.exe",
+      "type": "com.dse.parser.object.ExeNode"
+    }
+  ]
+}

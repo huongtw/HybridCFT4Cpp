@@ -1,0 +1,8 @@
+BEGIN OF TESTCASE1
+<<PRE-CALLING>> Test TestCase1
+Calling: D:\Tool_VNU\data-test\Sample_for_R1_2\test.cpp\MoreComplexCond(long,long,long,long,long)
+lis===1005###sois===25896###eois===25940###lif===2###soif===74###eoif===118###ifc===true###function===D:\Tool_VNU\data-test\Sample_for_R1_2\test.cpp\MoreComplexCond(long,long,long,long,long)
+lis===1005###sois===25897###eois===25900###lif===2###soif===75###eoif===78###isc===true###function===D:\Tool_VNU\data-test\Sample_for_R1_2\test.cpp\MoreComplexCond(long,long,long,long,long)
+lis===1014###sois===26284###eois===26293###lif===11###soif===462###eoif===471###ins===true###function===D:\Tool_VNU\data-test\Sample_for_R1_2\test.cpp\MoreComplexCond(long,long,long,long,long)
+Return from: D:\Tool_VNU\data-test\Sample_for_R1_2\test.cpp\MoreComplexCond(long,long,long,long,long)
+END OF TESTCASE1

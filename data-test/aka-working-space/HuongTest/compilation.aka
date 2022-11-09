@@ -1,0 +1,14 @@
+{
+  "compilationCommands": {
+    ".\\Sample_for_R1_2\\test17082021.cpp": "g++ -c \".\\Sample_for_R1_2\\test17082021.cpp\" -o\"D:\\\\OneDrive - Cao Dang Su Pham Trung Uong\\\\NCS\\\\Tool_VNU\\\\data-test\\\\aka-working-space\\\\HuongTest\\\\instruments\\test17082021.akaignore.cpp.out\""
+  },
+  "linkEntry": {
+    "command": "g++",
+    "outFlag": "-o",
+    "exeFile": "D:\\OneDrive - Cao Dang Su Pham Trung Uong\\NCS\\Tool_VNU\\data-test\\Sample_for_R1_2\\program.exe",
+    "binFiles": [
+      "D:\\\\OneDrive - Cao Dang Su Pham Trung Uong\\\\NCS\\\\Tool_VNU\\\\data-test\\\\aka-working-space\\\\HuongTest\\\\instruments\\test17082021.akaignore.cpp.out"
+    ]
+  },
+  "executablePath": ""
+}

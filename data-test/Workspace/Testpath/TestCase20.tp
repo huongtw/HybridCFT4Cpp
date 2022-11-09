@@ -1,0 +1,12 @@
+BEGIN OF TESTCASE20
+<<PRE-CALLING>> Test TestCase20
+Calling: D:\Tool_VNU\data-test\Sample_for_R1_2\test.cpp\MathEnglishGradelong(long,long)
+lis===497###sois===13659###eois===13680###lif===4###soif===159###eoif===180###ifc===true###function===D:\Tool_VNU\data-test\Sample_for_R1_2\test.cpp\MathEnglishGradelong(long,long)
+lis===497###sois===13659###eois===13666###lif===4###soif===159###eoif===166###isc===true###function===D:\Tool_VNU\data-test\Sample_for_R1_2\test.cpp\MathEnglishGradelong(long,long)
+lis===497###sois===13670###eois===13680###lif===4###soif===170###eoif===180###isc===true###function===D:\Tool_VNU\data-test\Sample_for_R1_2\test.cpp\MathEnglishGradelong(long,long)
+lis===500###sois===13728###eois===13749###lif===7###soif===228###eoif===249###ifc===true###function===D:\Tool_VNU\data-test\Sample_for_R1_2\test.cpp\MathEnglishGradelong(long,long)
+lis===500###sois===13728###eois===13735###lif===7###soif===228###eoif===235###isc===true###function===D:\Tool_VNU\data-test\Sample_for_R1_2\test.cpp\MathEnglishGradelong(long,long)
+lis===500###sois===13739###eois===13749###lif===7###soif===239###eoif===249###isc===true###function===D:\Tool_VNU\data-test\Sample_for_R1_2\test.cpp\MathEnglishGradelong(long,long)
+lis===502###sois===13760###eois===13771###lif===9###soif===260###eoif===271###ins===true###function===D:\Tool_VNU\data-test\Sample_for_R1_2\test.cpp\MathEnglishGradelong(long,long)
+Return from: D:\Tool_VNU\data-test\Sample_for_R1_2\test.cpp\MathEnglishGradelong(long,long)
+END OF TESTCASE20

@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:khadm" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/AHuong_Hybrid" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="56ca316e-020d-4ddc-9aa3-3ddf25894327" name="Default Changelist" comment="Kha: show weighted testpath in hybrid">
+      <change beforePath="$PROJECT_DIR$/TEST_REPORT.html" beforeDir="false" afterPath="$PROJECT_DIR$/TEST_REPORT.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/local/myConstraint.smt2" beforeDir="false" afterPath="$PROJECT_DIR$/local/myConstraint.smt2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/local/setting.properties" beforeDir="false" afterPath="$PROJECT_DIR$/local/setting.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myConstraint.smt2" beforeDir="false" afterPath="$PROJECT_DIR$/myConstraint.smt2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Bai10/testdatagen/se/solver/SmtLibGeneration.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Bai10/testdatagen/se/solver/SmtLibGeneration.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Common/TestConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Common/TestConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/compiler/Compiler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/compiler/Compiler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/testcase_manager/TestCaseManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testcase_manager/TestCaseManager.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="AHuong_Hybrid" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1staJivO9oGbLvQjwCkUJ7s4BbR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="js.buildTools.grunt.grunt-cli.package" value="" />
+    <property name="js.buildTools.gulp.gulp_package_dir" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/javafx-sdk-11.0.2/lib/javafx.graphics.jar!/" />
+    <property name="nodejs.jest.jest_package" value="" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="" />
+    <property name="nodejs.protractor.protractor_package" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="http.proxy" />
+  </component>
+  <component name="RunManager" selected="Application.VNUDSE">
+    <configuration name="BoundedTestGen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HybridAutoTestGen.BoundedTestGen" />
+      <module name="Bai10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HybridAutoTestGen.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Frame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GUI.Frame" />
+      <module name="Bai10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="GUI.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VNUDSE" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GUI.VNUDSE" />
+      <module name="Bai10" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;D:\OneDrive - Cao Dang Su Pham Trung Uong\NCS\Tool_KSE\lib\javafx-sdk-11.0.2\lib&quot; --add-modules ,javafx.controls,javafx.fxml" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="GUI.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="SwaggerCodegen">
+      <option name="activeConfigurationType" value="FILE" />
+      <option name="configurationPath" value="" />
+      <option name="customJreEnabled" value="false" />
+      <option name="customJrePath" value="null" />
+      <option name="customTemplatesPath" value="" />
+      <option name="enableDebugLogging" value="false" />
+      <option name="generateToPath" value="" />
+      <option name="generationParameters">
+        <list />
+      </option>
+      <option name="generatorPath" value="" />
+      <option name="language" value="" />
+      <option name="specificationPath" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.grunt">
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Frame" />
+      <item itemvalue="Application.VNUDSE" />
+      <item itemvalue="Application.BoundedTestGen" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.VNUDSE" />
+        <item itemvalue="Application.BoundedTestGen" />
+        <item itemvalue="Application.Frame" />
+        <item itemvalue="Application.VNUDSE" />
+        <item itemvalue="Application.Frame" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="56ca316e-020d-4ddc-9aa3-3ddf25894327" name="Default Changelist" comment="" />
+      <created>1621694269599</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621694269599</updated>
+      <workItem from="1621694275427" duration="3652000" />
+      <workItem from="1621697972166" duration="450000" />
+      <workItem from="1621698466013" duration="1767000" />
+      <workItem from="1621700274815" duration="3157000" />
+      <workItem from="1621703474943" duration="86000" />
+      <workItem from="1621735308933" duration="826000" />
+      <workItem from="1621753155495" duration="1260000" />
+      <workItem from="1621756960874" duration="3873000" />
+      <workItem from="1621761550116" duration="3763000" />
+      <workItem from="1621768640718" duration="2306000" />
+      <workItem from="1622047758318" duration="731000" />
+      <workItem from="1622080365362" duration="593000" />
+      <workItem from="1622121612401" duration="388000" />
+      <workItem from="1622171612181" duration="2086000" />
+      <workItem from="1622196069236" duration="967000" />
+      <workItem from="1622351254824" duration="375000" />
+      <workItem from="1622536386060" duration="595000" />
+      <workItem from="1623313507752" duration="12000" />
+      <workItem from="1623643687638" duration="34000" />
+      <workItem from="1623922030047" duration="595000" />
+      <workItem from="1624722069699" duration="596000" />
+      <workItem from="1624895595018" duration="594000" />
+      <workItem from="1625026608160" duration="164000" />
+      <workItem from="1625027932778" duration="595000" />
+      <workItem from="1626587751870" duration="569000" />
+      <workItem from="1626710014745" duration="207000" />
+      <workItem from="1626880011563" duration="1211000" />
+      <workItem from="1627385686466" duration="1782000" />
+      <workItem from="1627658878320" duration="1192000" />
+      <workItem from="1627741174650" duration="9315000" />
+      <workItem from="1627802077689" duration="34000" />
+      <workItem from="1628090945508" duration="3608000" />
+      <workItem from="1628128865882" duration="1189000" />
+      <workItem from="1628303567187" duration="1251000" />
+      <workItem from="1628400047049" duration="127000" />
+      <workItem from="1628432928229" duration="1904000" />
+      <workItem from="1628605397542" duration="5314000" />
+      <workItem from="1628783712568" duration="604000" />
+      <workItem from="1628865064874" duration="4741000" />
+      <workItem from="1628904747646" duration="8106000" />
+      <workItem from="1629037843484" duration="4341000" />
+      <workItem from="1629042626207" duration="1783000" />
+      <workItem from="1629129721945" duration="2542000" />
+      <workItem from="1629192974372" duration="961000" />
+      <workItem from="1629209575172" duration="8762000" />
+      <workItem from="1629339024626" duration="1189000" />
+      <workItem from="1629428151186" duration="4951000" />
+      <workItem from="1629510473618" duration="3129000" />
+      <workItem from="1629529320533" duration="597000" />
+      <workItem from="1629555887042" duration="3244000" />
+      <workItem from="1629641941728" duration="1791000" />
+      <workItem from="1629888193762" duration="12884000" />
+      <workItem from="1630041104986" duration="7289000" />
+      <workItem from="1630111197462" duration="5739000" />
+      <workItem from="1630129942388" duration="2522000" />
+      <workItem from="1630141374268" duration="2061000" />
+      <workItem from="1630160302220" duration="3112000" />
+      <workItem from="1630174720694" duration="689000" />
+      <workItem from="1630378923712" duration="593000" />
+      <workItem from="1630565612548" duration="443000" />
+      <workItem from="1631353088366" duration="8090000" />
+      <workItem from="1631461245591" duration="685000" />
+      <workItem from="1631541451871" duration="1679000" />
+      <workItem from="1631607447358" duration="5162000" />
+      <workItem from="1631627919044" duration="7193000" />
+      <workItem from="1631716986368" duration="3734000" />
+      <workItem from="1631788431593" duration="13000" />
+      <workItem from="1631802874983" duration="5817000" />
+      <workItem from="1631889325150" duration="4891000" />
+      <workItem from="1631972196795" duration="2284000" />
+      <workItem from="1632038596662" duration="4492000" />
+      <workItem from="1632105626410" duration="5068000" />
+      <workItem from="1632116637086" duration="479000" />
+      <workItem from="1632119434906" duration="601000" />
+      <workItem from="1632146925468" duration="5728000" />
+      <workItem from="1632194143572" duration="3238000" />
+      <workItem from="1632219390681" duration="1826000" />
+      <workItem from="1632652674987" duration="567000" />
+      <workItem from="1632809680416" duration="556000" />
+      <workItem from="1632923739700" duration="949000" />
+      <workItem from="1633747304799" duration="2280000" />
+      <workItem from="1638084108175" duration="596000" />
+      <workItem from="1642141001021" duration="76000" />
+      <workItem from="1642910695712" duration="723000" />
+    </task>
+    <task id="LOCAL-00001" summary="Viet: sua COMPILE_COMMAND_TEMPLATE, LINK_COMMAND_TEMPLATE">
+      <created>1621765449199</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1621765449199</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Kha save the code before changing">
+      <created>1627741469281</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1627741469281</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Kha: new bvtg buttion">
+      <created>1628869068082</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1628869068082</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Kha: add C3 to CFT4CPP">
+      <created>1629040791875</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1629040791875</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Fix COMPILE_COMMAND_TEMPLATE, LINK_COMMAND_TEMPLATE">
+      <created>1629214280241</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1629214280241</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Kha: new bvtg buttion">
+      <created>1629214739976</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1629214739976</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Kha: fix updated weight and show weighted testpath in hybrid">
+      <created>1631889723992</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1631889723992</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Kha: show weighted testpath in hybrid">
+      <created>1632154651194</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1632154651194</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/AHuong_Hybrid" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Viet: sua COMPILE_COMMAND_TEMPLATE, LINK_COMMAND_TEMPLATE" />
+    <MESSAGE value="Kha save the code before changing" />
+    <MESSAGE value="Kha: add C3 to CFT4CPP" />
+    <MESSAGE value="Fix COMPILE_COMMAND_TEMPLATE, LINK_COMMAND_TEMPLATE" />
+    <MESSAGE value="Kha: new bvtg buttion" />
+    <MESSAGE value="Kha: fix updated weight and show weighted testpath in hybrid" />
+    <MESSAGE value="Kha: show weighted testpath in hybrid" />
+    <option name="LAST_COMMIT_MESSAGE" value="Kha: show weighted testpath in hybrid" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1323" height="126" key="GridCell.Tab.0.bottom" timestamp="1642952874310">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="126" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1642952874310" />
+    <state width="1323" height="126" key="GridCell.Tab.0.center" timestamp="1642952874310">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="126" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1642952874310" />
+    <state width="1323" height="126" key="GridCell.Tab.0.left" timestamp="1642952874309">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="126" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1642952874309" />
+    <state width="1323" height="126" key="GridCell.Tab.0.right" timestamp="1642952874310">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="126" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1642952874310" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/HybridAutoTestGen/BoundedTestGen.java</url>
+          <line>268</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/testcase_manager/TestCaseManager.java</url>
+          <line>164</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/testcase_manager/TestCaseManager.java</url>
+          <line>190</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/testcase_manager/TestCaseManager.java</url>
+          <line>200</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/compiler/Compiler.java</url>
+          <line>78</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/HybridAutoTestGen/BoundedTestGen.java</url>
+          <line>89</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/HybridAutoTestGen/BoundedTestGen.java</url>
+          <line>102</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/HybridAutoTestGen/BoundedTestGen.java</url>
+          <line>271</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/GUI/HybridTestGen.java</url>
+          <line>203</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/utils/Utils.java</url>
+          <line>2225</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/utils/Utils.java</url>
+          <line>2219</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/coverage/AbstractCoverageComputation.java</url>
+          <line>193</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/coverage/AbstractCoverageComputation.java</url>
+          <line>197</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/coverage/AbstractCoverageComputation.java</url>
+          <line>204</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/coverage/CFGUpdaterv2.java</url>
+          <line>108</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/coverage/CFGUpdaterv2.java</url>
+          <line>75</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/coverage/CFGUpdaterv2.java</url>
+          <line>83</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/coverage/CFGUpdaterv2.java</url>
+          <line>87</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/HybridAutoTestGen/WeightedGraph.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/HybridAutoTestGen/WeightedTestPath.java</url>
+          <line>200</line>
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/HybridAutoTestGen/ProbTestPath.java</url>
+          <line>173</line>
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/HybridAutoTestGen/ProbTestPath.java</url>
+          <line>175</line>
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/coverage/AbstractCoverageComputation.java</url>
+          <line>92</line>
+          <option name="timeStamp" value="113" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/project_init/ProjectClone.java</url>
+          <line>244</line>
+          <option name="timeStamp" value="120" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/project_init/ProjectClone.java</url>
+          <line>246</line>
+          <option name="timeStamp" value="122" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

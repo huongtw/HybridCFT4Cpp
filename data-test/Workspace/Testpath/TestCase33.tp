@@ -1,0 +1,11 @@
+BEGIN OF TESTCASE33
+<<PRE-CALLING>> Test TestCase33
+Calling: D:\Tool_VNU\data-test\Sample_for_R1_2\test.cpp\Tritype(double,double,double)
+lis===363###sois===10675###eois===10690###lif===2###soif===133###eoif===148###ins===true###function===D:\Tool_VNU\data-test\Sample_for_R1_2\test.cpp\Tritype(double,double,double)
+lis===364###sois===10714###eois===10743###lif===3###soif===172###eoif===201###ifc===true###function===D:\Tool_VNU\data-test\Sample_for_R1_2\test.cpp\Tritype(double,double,double)
+lis===364###sois===10714###eois===10721###lif===3###soif===172###eoif===179###isc===true###function===D:\Tool_VNU\data-test\Sample_for_R1_2\test.cpp\Tritype(double,double,double)
+lis===364###sois===10725###eois===10732###lif===3###soif===183###eoif===190###isc===true###function===D:\Tool_VNU\data-test\Sample_for_R1_2\test.cpp\Tritype(double,double,double)
+lis===364###sois===10736###eois===10743###lif===3###soif===194###eoif===201###isc===true###function===D:\Tool_VNU\data-test\Sample_for_R1_2\test.cpp\Tritype(double,double,double)
+lis===365###sois===10763###eois===10772###lif===4###soif===221###eoif===230###ins===true###function===D:\Tool_VNU\data-test\Sample_for_R1_2\test.cpp\Tritype(double,double,double)
+Return from: D:\Tool_VNU\data-test\Sample_for_R1_2\test.cpp\Tritype(double,double,double)
+END OF TESTCASE33
