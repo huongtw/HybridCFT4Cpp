@@ -68,63 +68,63 @@ Vào loccal\z3\setting.properties
 
 Danh sách các hàm được kiểm thử, lấy tại data-test\Sample_for_R1_2, cụ thể như sau:
 
-int factorial(int x)
+* int factorial(int x)
 
-char grade(int averageGrade)
+* char grade(int averageGrade)
 
-int getFare(int age, int distance)
+* int getFare(int age, int distance)
 
-int i4_power(int i, int j)
+* int i4_power(int i, int j)
 
-int calculateZodiac(int date, int month):  Tinh toan cung hoang dao (Zodiac) va du bao
+* int calculateZodiac(int date, int month):  Tinh toan cung hoang dao (Zodiac) va du bao
  
-int GCD(int m, int n)
+* int GCD(int m, int n)
 
-int Tritype(double i, double j, double k)
+* int Tritype(double i, double j, double k)
 
-char  MathEnglishGrade (int Math, int English)
+* char  MathEnglishGrade (int Math, int English)
 
-int isTriangle(int a, int b, int c){
+* int isTriangle(int a, int b, int c){
 
-int leapYear(int year)
+* int leapYear(int year)
 
-float PDF(int x, int minn, int maxx)
+* float PDF(int x, int minn, int maxx)
 
-float foo(int a, int b, int c, int d)
+* float foo(int a, int b, int c, int d)
 
-long CDateToNumber(int day, int month, int year)
+* long CDateToNumber(int day, int month, int year)
 
-long CountSecond(int hour, int minute, int second)
+* long CountSecond(int hour, int minute, int second)
 
-int CheckValidDate(int day, int month, int year){ //Tuong doi cham
+* int CheckValidDate(int day, int month, int year){ //Tuong doi cham
 
-int CheckValidTime(int hour, int minute, int second)
+* int CheckValidTime(int hour, int minute, int second)
 
-int divisionTest(int a, int b){
+* int divisionTest(int a, int b){
 
-long NextDate(int year, int month, int day)
+* long NextDate(int year, int month, int day)
 
-int simpleWhileTest(int x, int y){
+* int simpleWhileTest(int x, int y){
  
-int Forloop(int m, int n)
+* int forLoop(int m, int n)
 
-void selectionSort(int arr[], int n)
+* void selectionSort(int arr[], int n)
 
-int multiConditionTest(int x)
+* int multiConditionTest(int x)
    
-float distanceTest(float x)
+* float distanceTest(float x)
  
-double smallIntervalTest(double x)
+* double smallIntervalTest(double x)
  
-int mmin(int a, int b)
+* int mmin(int a, int b)
 
-short SimpleCondThanComplexCond (short a, short b, short c)
+* short SimpleCondThanComplexCond (short a, short b, short c)
   
-long MoreComplexCond (long a, long b, long c, long d, long e)
+* long MoreComplexCond (long a, long b, long c, long d, long e)
 
-double Average(double value[], double min, double max, int& tcnt, int& vcnt) 
+* double Average(double value[], double min, double max, int& tcnt, int& vcnt) 
 
-int twoWhileloop(int m, int n)
+* int twoWhileloop(int m, int n)
 
 
 ## Developers
