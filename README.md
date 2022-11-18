@@ -42,7 +42,7 @@ Vào loccal\z3\setting.properties
 + COVERAGE: Độ phủ (ví dụ: COVERAGE=branch)
 
 (v) Đường dẫn đến tệp báo cáo TEST_REPORT
-+ Sau khi sinh dữ liệu kiểm thử, sẽ thông báo sinh dữ liệu kiểm thử thành công.  Chọn nút View report trên giao diện để xem report
++ Sau khi sinh dữ liệu kiểm thử, sẽ thông báo sinh dữ liệu kiểm thử thành công. Chọn nút [View report] trên giao diện để xem report
 
 ### Chạy chương trình
 - Vào /src/GUI/VNUDSE.java, giao diện khi chạy chương trình
@@ -52,13 +52,13 @@ Vào loccal\z3\setting.properties
 * Bước 3: Chọn số vòng lặp tối đa trong trường hợp hàm có vòng lặp tại [Maxloop]. Hàm không có vòng lặp thì Maxloop=0
 * Bước 4: Chọn một trong các phương pháp sau để thực nghiệm
 
-  STCFG: sinh dữ liệu kiểm thử trong nghiên cứu của Duc-Anh và cộng sự
+  STCFG: Sinh dữ liệu kiểm thử trong nghiên cứu của Duc-Anh và cộng sự
   
-  WCFT: sinh dữ liệu kiểm thử sử dụng đồ thị có trọng số
+  WCFT: Sinh dữ liệu kiểm thử sử dụng đồ thị có trọng số
   
-  BVTG: sinh dữ liệu kiểm thử tại biên
+  BVTG: Sinh dữ liệu kiểm thử tại biên
   
-  IBVTG: cải tiến sinh dữ liệu kiểm thử tại biên.
+  IBVTG: Cải tiến sinh dữ liệu kiểm thử tại biên.
   
   Hybrid: Phương pháp kết hợp, vừa sinh dữ liệu kiểm thử trọng số, vừa sinh dữ liệu kiểm thử tại biên.
   
