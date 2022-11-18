@@ -1,7 +1,7 @@
 # Công cụ HybridCFT4Cpp 
 Công cụ sinh dữ liệu kiểm thử cho dự án C/C++
 
-Được phát triển từ công cụ CFT4-Cpp core: Video (https://www.youtube.com/watch?v=l3ugnLKmC6g). Mã nguồn lấy lại: https://github.com/huongtw/HybridCFT4Cpp/archive/refs/heads/master.zip
+Được phát triển từ công cụ CFT4-Cpp core: Video (https://www.youtube.com/watch?v=l3ugnLKmC6g). 
 
 Mục đích: Sinh dữ liệu kiểm thử cho hàm sử dụng đồ thị dòng điều khiển có trọng số và sinh dữ liệu kiểm thử tại biên.
 
