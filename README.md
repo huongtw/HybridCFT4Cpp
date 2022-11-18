@@ -68,63 +68,61 @@ Vào loccal\z3\setting.properties
 
 Danh sách các hàm được kiểm thử, lấy tại data-test\Sample_for_R1_2, cụ thể như sau:
 
-* int factorial(int x)
+* int factorial(int x): Tính giai thừa
 
-* char grade(int averageGrade)
+* char grade(int averageGrade): Xếp hạng kết quả học tập
 
 * int getFare(int age, int distance)
 
-* int i4_power(int i, int j)
+* int i4_power(int i, int j): Tính i^j
 
 * int calculateZodiac(int date, int month):  Tinh toan cung hoang dao (Zodiac) va du bao
  
-* int GCD(int m, int n)
+* int GCD(int m, int n): Tìm Ước số chung lớn nhất
 
-* int Tritype(double i, double j, double k)
+* int Tritype(double i, double j, double k): Phân loại tam giác
 
-* char  MathEnglishGrade (int Math, int English)
+* char  MathEnglishGrade (int Math, int English): Phân loại kết quả học tập theo điểm math và english
 
-* int isTriangle(int a, int b, int c){
+* int isTriangle(int a, int b, int c): Kiểm tra 3 số có tạo thành 3 cạnh tam giác không
 
-* int leapYear(int year)
+* int leapYear(int year): Kiểm tra năm nhuận
 
 * float PDF(int x, int minn, int maxx)
 
 * float foo(int a, int b, int c, int d)
 
-* long CDateToNumber(int day, int month, int year)
+* long CDateToNumber(int day, int month, int year): Chuyển ngày tháng thành số
 
-* long CountSecond(int hour, int minute, int second)
+* long CountSecond(int hour, int minute, int second): Đếm số giây trong thời gian đã trôi qua
 
-* int CheckValidDate(int day, int month, int year){ //Tuong doi cham
+* int CheckValidDate(int day, int month, int year): Kiểm tra ngày thánh hợp lệ
 
-* int CheckValidTime(int hour, int minute, int second)
+* int CheckValidTime(int hour, int minute, int second): Kiểm tra thời gian hợp lệ
 
-* int divisionTest(int a, int b){
+* int divisionTest(int a, int b): Kiểm tra chia cho 0
 
-* long NextDate(int year, int month, int day)
+* long NextDate(int year, int month, int day): Lấy ngày tiếp theo
 
-* int simpleWhileTest(int x, int y){
+* int simpleWhileTest(int x, int y): Minh họa vòng lặp while đơn giản
  
-* int forLoop(int m, int n)
+* int forLoop(int m, int n): Hàm có hai vòng lặp for lồng nhau
 
-* void selectionSort(int arr[], int n)
+* void selectionSort(int arr[], int n): Thuật toán sắp xếp chọn
 
-* int multiConditionTest(int x)
+* int multiConditionTest(int x): Hàm có nhiều điều kiện
    
-* float distanceTest(float x)
+* float distanceTest(float x): Hàm có khoảng nhỏ
  
-* double smallIntervalTest(double x)
+* double smallIntervalTest(double x): Khoảng nhỏ
  
-* int mmin(int a, int b)
-
-* short SimpleCondThanComplexCond (short a, short b, short c)
+* short SimpleCondThanComplexCond (short a, short b, short c): Hàm có nhiều điều kiện đơn hơn điều kiện phức
   
-* long MoreComplexCond (long a, long b, long c, long d, long e)
+* long MoreComplexCond (long a, long b, long c, long d, long e): Hàm có nhiều điều kiện phức hơn điều kiện đơn
 
 * double Average(double value[], double min, double max, int& tcnt, int& vcnt) 
 
-* int twoWhileloop(int m, int n)
+* int twoWhileloop(int m, int n): Hàm có hai vòng lặp while lồng nhau
 
 
 ## Developers
